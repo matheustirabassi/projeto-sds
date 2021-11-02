@@ -1,1 +1,1 @@
-echo # projeto-sds
+# projeto-sds
